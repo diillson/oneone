@@ -1,7 +1,9 @@
 # oneone
 
-Aplicação de cadastro e pesquisa utilizando para produção: PostgreSQL
-Como teste utilizando H2
+Aplicação de cadastro e pesquisa em java com frontend em javascript.
+
+Utilizando banco para produção: PostgreSQL
+Como teste utilizando: H2
 
 Backend em JAVA
 Frondend em JavaScript

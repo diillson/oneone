@@ -1,4 +1,4 @@
-# oneone
+# Repositório: oneone | Aplicação de treinamento
 
 Aplicação de cadastro e pesquisa em java com frontend em javascript.
 
